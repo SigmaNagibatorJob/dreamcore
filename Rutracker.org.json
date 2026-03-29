@@ -1,11 +1,13 @@
+{
   "name": "Rutracker.org",
   "downloads": [
     {
-      "title": "",
+      "title": "Dreamcore",
       "uris": [
-        "https://rutracker.org/forum/dl.php?t=6635330"
+        "magnet:?xt=urn:btih:B900F6AE5EB38F2DE17CA865626804B5A883F720&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=%5BDL%5D%20Dreamcore%20%5BP%5D%20%5BRUS%20%2B%20ENG%20%2B%207%5D%20(2025%2C%20Horror)%20(20801444)%20%5BPortable%5D"
       ],
-      "uploadDate": "2025-12-20",
+      "uploadDate": "2025-03-29T00:00:00.000Z",
       "fileSize": "3.36 GB"
     }
   ]
+}
